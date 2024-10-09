@@ -22,3 +22,5 @@ Tot slot is de amplitude
  van de functie gelijk aan 1
 . Dit betekent dat de waarde van de evenwichtsstand tot aan het hoogste punt (of: laagste punt) gelijk aan 1
  is.
+ 
+<iframe src="https://idemalab.tudelft.nl/rekenapp/" width="800" height="400" scrolling="auto"></iframe>
