@@ -24,6 +24,6 @@ Tot slot is de amplitude
 . Dit betekent dat de waarde van de evenwichtsstand tot aan het hoogste punt (of: laagste punt) gelijk aan 1
  is.
  
-<iframe src="https://www.geogebra.org/m/gx2bc464" width="800" height="400" scrolling="auto"></iframe>
-
+<iframe src="" width="800" height="400" scrolling="auto"></iframe>
+<iframe src="https://www.geogebra.org/classic/svantjyn?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 ##cosinus
