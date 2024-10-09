@@ -23,5 +23,5 @@ Tot slot is de amplitude
  van de functie gelijk aan 1
 . Dit betekent dat de waarde van de evenwichtsstand tot aan het hoogste punt (of: laagste punt) gelijk aan 1
  is.
- <iframe src="https://www.geogebra.org/classic/svantjyn?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+ <iframe src="https://www.geogebra.org/classic/svantjyn?embed" width="1200" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
