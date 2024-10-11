@@ -5,6 +5,28 @@
 
 Additions and multiplications are easy to compute by hand, but if you had to determine the value of $\sqrt[3]{9}$ you would probably need a calculator. The function $\sqrt[3]{x}$, however, can be approximated by polynomials. Polynomials are functions that can be written as sums of multiples of powers of $x$. The functions $1+x-3x^4$ and $-2-5x^2+2x^6-x^7$ are examples of polynomials.
 
+
+```{math}
+\int_{\R^n} \mathbb{1}_A(x)\,\mathrm{d}x.
+```
+
+In einem gewissen Sinn sind Maße ein *fundamentaleres Konzept* als das der Integration, da sich jede Integration auf die Berechnung von Maßen stützt.
+
+Eins der berühmtesten Beispiele zur Motivation der Maßtheorie ist im Folgenden erklärt.
+
+````{prf:example} Dirichlet-Funktion
+:label: ex:dirichletFunktion
+
+Wir betrachten das kompakte Intervall $[0,1] \subset \R$ und definieren hierauf die sogenannte **Dirichlet-Funktion** $\mathbb{1}_\Q \colon [0,1] \rightarrow \{0,1\}$ mit
+
+```{math}
+\mathbb{1}_\Q(x) := \begin{cases} 1, \ \text{ falls } x \in \Q, \\ 0, \ \text{ sonst }.\end{cases}
+```
+
+Diese Abbildung kann als *charakteristische Funktion* der rationalen Zahlen $\Q$ aufgefasst werden.
+Man sieht leicht ein, dass diese Funktion **nicht Riemann-integrierbar** ist, da alle Untersummen stets $0$ und alle Obersummen stets $1$ sind.
+````
+
 ## Taylor polynomials
 
 Function values of polynomials are easy to find since you only need to be able to add and multiply numbers. This means that we can use these polynomials to obtain a good guess of what $\sqrt[3]{9}$ should more or less be equal to. In this text we will show you how you can approximate functions by polynomials and apply them to solve various problems.
