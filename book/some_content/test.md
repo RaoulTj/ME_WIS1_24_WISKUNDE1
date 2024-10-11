@@ -507,7 +507,7 @@ $\sqrt{x},\quad a=4,\quad3.5\leq x \leq 4.5$.
 
 ::::::
 
-::::::{exercise}
+::::{exercise}
 :label: Exc:TaylorPolynomials:error2WBMT
 
 Use Taylor polynomials of order $n$ centered at 0 in exercises 8 to 11 to approximate the given value and show that the approximation error is smaller than $\epsilon$:
@@ -540,7 +540,7 @@ $\ln(1.2),\quad n=2,\quad \epsilon=0.01$.
 
 </ol>
 
-::::::
+::::
 
 ## Solutions
 
