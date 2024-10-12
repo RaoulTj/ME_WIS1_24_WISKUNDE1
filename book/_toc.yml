@@ -7,6 +7,4 @@ parts:
     - file: some_content/overview.md
       sections:
       - file: some_content/text_and_code.ipynb
-    - file: some_content/test.md
-    - file: some_content/test2.md
     - file: references.md
