@@ -25,3 +25,6 @@ Tot slot is de amplitude
  is.
  <iframe src="https://www.geogebra.org/classic/svantjyn?embed" width="1200" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
+:::{Tip} Opgaven
+This text is **standard** _Markdown_
+:::
