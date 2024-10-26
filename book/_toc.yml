@@ -1,10 +1,38 @@
-format: jb-book
-root: intro.md
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
 
-parts:
-  - caption: Contents
-    chapters:
-    - file: some_content/overview.md
-      sections:
-      - file: some_content/text_and_code.ipynb
-    - file: references.md
+format: jb-book
+root: intro
+options:
+  numbered: false
+chapters:
+- file: H2/H2_0_intro
+  sections:
+  - file: H2/H2_1
+  - file: H2/H2_2
+  - file: H2/H2_3_opgaven
+  - file: H2/H2_4_uitwerkingen
+- file: H3/H3_0_intro
+  sections:
+  - file: H3/H3_1
+  - file: H3/H3_2
+  - file: H3/H3_3_opgaven
+  - file: H3/H3_4_uitwerkingen
+- file: H4/H4_0_intro
+  sections:
+  - file: H4/H4_1
+  - file: H4/H4_2
+  - file: H4/H4_3_opgaven
+  - file: H4/H4_4_uitwerkingen
+- file: H5/H5_0_intro
+  sections:
+  - file: H5/H5_1
+  - file: H5/H5_2
+  - file: H5/H5_3_opgaven
+  - file: H5/H5_4_uitwerkingen
+- file: H6/H6_0_intro
+  sections:
+  - file: H6/H6_1
+  - file: H6/H6_2
+  - file: H6/H6_3_opgaven
+  - file: H6/H6_4_uitwerkingen
