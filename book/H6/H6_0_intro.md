@@ -1,0 +1,1 @@
+# 6 Toepassingen van tweede orde differentiaalvergelijkingen
