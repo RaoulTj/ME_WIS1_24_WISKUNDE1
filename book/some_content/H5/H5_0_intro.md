@@ -1,1 +1,0 @@
-# 5 Toepassingen van eerste orde differentiaalvergelijkingen
